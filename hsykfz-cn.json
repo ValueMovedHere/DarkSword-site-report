@@ -1,0 +1,123 @@
+[
+  {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "beian.hsykfz.cn",
+    "name_value": "beian.hsykfz.cn",
+    "id": 29888709488,
+    "not_before": "2026-10-06T11:21:06",
+    "not_after": "2027-01-04T11:21:05",
+    "serial_number": "05a091f985ddf19ba8ddf2bddf7959328f9a",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "beian.hsykfz.cn",
+    "name_value": "beian.hsykfz.cn",
+    "id": 29766374684,
+    "not_before": "2026-10-06T11:21:06",
+    "not_after": "2027-01-04T11:21:05",
+    "serial_number": "05a091f985ddf19ba8ddf2bddf7959328f9a",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432952,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YE1",
+    "common_name": "*.hsykfz.cn",
+    "name_value": "*.hsykfz.cn\nhsykfz.cn",
+    "id": 29815596122,
+    "not_before": "2026-09-14T02:02:18",
+    "not_after": "2026-12-13T02:02:17",
+    "serial_number": "06eb92b2e3198f580c28d948b3233a13957c",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "beian.hsykfz.cn",
+    "name_value": "beian.hsykfz.cn",
+    "id": 28182917318,
+    "not_before": "2026-07-23T12:52:05",
+    "not_after": "2026-10-21T12:52:04",
+    "serial_number": "053b7e841d83f96f07d5071ba4cd6201f3d5",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "beian.hsykfz.cn",
+    "name_value": "beian.hsykfz.cn",
+    "id": 28182918114,
+    "not_before": "2026-07-23T12:52:05",
+    "not_after": "2026-10-21T12:52:04",
+    "serial_number": "053b7e841d83f96f07d5071ba4cd6201f3d5",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "*.hsykfz.cn",
+    "name_value": "*.hsykfz.cn\nhsykfz.cn",
+    "id": 28103020839,
+    "not_before": "2026-07-20T19:27:46",
+    "not_after": "2026-10-18T19:27:45",
+    "serial_number": "05f39bdccb2d45f10c891f14bce3c9091ed5",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "*.hsykfz.cn",
+    "name_value": "*.hsykfz.cn\nhsykfz.cn",
+    "id": 28103026919,
+    "not_before": "2026-07-20T19:27:46",
+    "not_after": "2026-10-18T19:27:45",
+    "serial_number": "05f39bdccb2d45f10c891f14bce3c9091ed5",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "beian.hsykfz.cn",
+    "name_value": "beian.hsykfz.cn",
+    "id": 26510371604,
+    "not_before": "2026-05-21T04:12:30",
+    "not_after": "2026-08-19T04:12:29",
+    "serial_number": "0551323ad09a3926e6450bbace8301d30a1e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "beian.hsykfz.cn",
+    "name_value": "beian.hsykfz.cn",
+    "id": 26510365876,
+    "not_before": "2026-05-21T04:12:30",
+    "not_after": "2026-08-19T04:12:29",
+    "serial_number": "0551323ad09a3926e6450bbace8301d30a1e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "*.hsykfz.cn",
+    "name_value": "*.hsykfz.cn\nhsykfz.cn",
+    "id": 26488599208,
+    "not_before": "2026-05-20T09:53:42",
+    "not_after": "2026-08-18T09:53:41",
+    "serial_number": "05b4a588d85585cd642c92d89f2b9f462438",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "*.hsykfz.cn",
+    "name_value": "*.hsykfz.cn\nhsykfz.cn",
+    "id": 26488598434,
+    "not_before": "2026-05-20T09:53:42",
+    "not_after": "2026-08-18T09:53:41",
+    "serial_number": "05b4a588d85585cd642c92d89f2b9f462438",
+    "result_count": 3
+  }
+]

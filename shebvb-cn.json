@@ -1,0 +1,101 @@
+[
+  {
+    "issuer_ca_id": 432952,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YE1",
+    "common_name": "*.shebvb.cn",
+    "name_value": "*.shebvb.cn\nshebvb.cn",
+    "id": 29815560313,
+    "not_before": "2026-09-14T02:02:19",
+    "not_after": "2026-12-13T02:02:18",
+    "serial_number": "06f87ba058a43a07a5c091fe9a8dbc977cbc",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "baian.shebvb.cn",
+    "name_value": "baian.shebvb.cn",
+    "id": 28182895854,
+    "not_before": "2026-07-23T12:51:46",
+    "not_after": "2026-10-21T12:51:45",
+    "serial_number": "056dbc41c2a99594c061cddc811d43ec320c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "baian.shebvb.cn",
+    "name_value": "baian.shebvb.cn",
+    "id": 28182901497,
+    "not_before": "2026-07-23T12:51:46",
+    "not_after": "2026-10-21T12:51:45",
+    "serial_number": "056dbc41c2a99594c061cddc811d43ec320c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "*.shebvb.cn",
+    "name_value": "*.shebvb.cn\nshebvb.cn",
+    "id": 28103025726,
+    "not_before": "2026-07-20T19:27:53",
+    "not_after": "2026-10-18T19:27:52",
+    "serial_number": "057b5d1bfc73609a5691fdc18489c990002f",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "*.shebvb.cn",
+    "name_value": "*.shebvb.cn\nshebvb.cn",
+    "id": 28103023249,
+    "not_before": "2026-07-20T19:27:53",
+    "not_after": "2026-10-18T19:27:52",
+    "serial_number": "057b5d1bfc73609a5691fdc18489c990002f",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "baian.shebvb.cn",
+    "name_value": "baian.shebvb.cn",
+    "id": 26510366661,
+    "not_before": "2026-05-21T04:11:44",
+    "not_after": "2026-08-19T04:11:43",
+    "serial_number": "057e9bd0e311b44961d0d1b669d1441762fa",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "baian.shebvb.cn",
+    "name_value": "baian.shebvb.cn",
+    "id": 26510360442,
+    "not_before": "2026-05-21T04:11:44",
+    "not_after": "2026-08-19T04:11:43",
+    "serial_number": "057e9bd0e311b44961d0d1b669d1441762fa",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "*.shebvb.cn",
+    "name_value": "*.shebvb.cn\nshebvb.cn",
+    "id": 26488737954,
+    "not_before": "2026-05-20T10:00:54",
+    "not_after": "2026-08-18T10:00:53",
+    "serial_number": "06dea12caf66566305aa2a8c51c47b705220",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "*.shebvb.cn",
+    "name_value": "*.shebvb.cn\nshebvb.cn",
+    "id": 26488714765,
+    "not_before": "2026-05-20T10:00:54",
+    "not_after": "2026-08-18T10:00:53",
+    "serial_number": "06dea12caf66566305aa2a8c51c47b705220",
+    "result_count": 3
+  }
+]
