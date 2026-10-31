@@ -1,0 +1,24 @@
+[
+  {
+    "issuer_ca_id": 204407,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
+    "common_name": "gepvh.com",
+    "name_value": "*.gepvh.com\ngepvh.com",
+    "id": 29585403869,
+    "not_before": "2026-09-30T00:00:00",
+    "not_after": "2026-12-26T13:41:49",
+    "serial_number": "009ba3ece529f5da2852579e5b72b87138",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "gepvh.com",
+    "name_value": "*.gepvh.com\ngepvh.com",
+    "id": 29300936692,
+    "not_before": "2026-09-07T13:13:49",
+    "not_after": "2026-12-06T14:12:11",
+    "serial_number": "5f1a79c5aeefa7780e63b3fc6951753a",
+    "result_count": 3
+  }
+]
