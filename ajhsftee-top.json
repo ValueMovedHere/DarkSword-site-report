@@ -1,0 +1,24 @@
+[
+  {
+    "issuer_ca_id": 438138,
+    "issuer_name": "C=CN, O=\"TrustAsia Technologies, Inc.\", CN=LiteSSL RSA CA 2025",
+    "common_name": "beian.ajhsftee.top",
+    "name_value": "beian.ajhsftee.top",
+    "id": 29443821100,
+    "not_before": "2026-09-15T04:00:00",
+    "not_after": "2026-12-14T03:59:59",
+    "serial_number": "7f8bef46cfe0db89f96544a8f96bbe6bf4e57ef1",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 438138,
+    "issuer_name": "C=CN, O=\"TrustAsia Technologies, Inc.\", CN=LiteSSL RSA CA 2025",
+    "common_name": "beian.ajhsftee.top",
+    "name_value": "beian.ajhsftee.top",
+    "id": 29482916957,
+    "not_before": "2026-09-15T04:00:00",
+    "not_after": "2026-12-14T03:59:59",
+    "serial_number": "7f8bef46cfe0db89f96544a8f96bbe6bf4e57ef1",
+    "result_count": 2
+  }
+]
