@@ -15,7 +15,9 @@ https://gepvh[.]com/49646/video.html
 
 ## The C2
 ```
+Domain: 
 37ole7no82xtgse[.]icu
 IP: 
+                   UTC+8 20:26
 54.254.139[.]54 -> 3.0.239[.]81
 ```
