@@ -11,12 +11,14 @@ curl -sS -D /tmp/h.txt -c /tmp/cj.txt -b /tmp/cj.txt \
 ## Phishing Site
 ```
 https://gepvh[.]com/49646/video.html
+https://baoz3[.]top
 ```
 
 ## The C2
 ```
 Domain: 
 37ole7no82xtgse[.]icu
+ryh0o60i5lem3xs[.]icu
 ```
 ```
 IP: 
