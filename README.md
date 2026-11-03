@@ -23,6 +23,9 @@ https://baoz3[.]top  /
 ```
 Domain: 
 37ole7no82xtgse[.]icu
+                       \
+                        same cert, same IP
+                       /
 ryh0o60i5lem3xs[.]icu
 ```
 ```
