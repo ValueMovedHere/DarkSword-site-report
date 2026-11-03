@@ -8,10 +8,15 @@ curl -sS -D /tmp/h.txt -c /tmp/cj.txt -b /tmp/cj.txt \
                                -e "https://tf.dzhkfz.cn/next-chain/frame.html?c=O.E.KI" \
                                "https://tf.dzhkfz.cn/next-chain/rce_loader.js?$(date +%s%3N)" | tee /tmp/rce_loader.js
 ```
-## Phishing Site
+## Phishing Sites
 ```
 https://gepvh[.]com/49646/video.html
-https://baoz3[.]top
+https://qyul30[.]com
+https://99jj16[.]com
+
+dkj84dkfgljf74[.]vip \
+                       https://www.jx9adrpc5z8094di7.net/channel/J.I.N2/weifile/weifile.html => 待归因
+https://baoz3[.]top  /
 ```
 
 ## The C2
