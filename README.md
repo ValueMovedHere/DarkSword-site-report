@@ -10,9 +10,14 @@ curl -sS -D /tmp/h.txt -c /tmp/cj.txt -b /tmp/cj.txt \
 ```
 ## Phishing Sites
 ```
-https://gepvh[.]com/49646/video.html--\
-https://qyul30[.]com------------------- => https://tf[.]dzhkfz[.]cn/channel/O.E.KI/weifile/weifile[.]html
-https://99jj16[.]com------------------/
+99vv89[.]com (64.32.9[.]195, LA)-------
+www[.]99vv82[.]com--------------------- \
+https://gepvh[.]com/49646/video.html--- https://tf[.]dzhkfz[.]cn/channel/O.E.KI/weifile/weifile[.]html 
+https://qyul30[.]com------------------- /
+https://99jj16[.]com-------------------
+https://qyl0016[.]com
+...
+...
 
 dkj84dkfgljf74[.]vip \
                        https://www[.]jx9adrpc5z8094di7[.]net/channel/J.I.N2/weifile/weifile[.]html => 待归因
@@ -20,7 +25,7 @@ https://baoz3[.]top  /
                                  /\
                                  || 类似
                                  \/
-      ??????          => www[.]hsylc888[.]com
+      ??????          => www[.]hsylc888[.]com      =>    https://c2[.]hsylc888[.]com/next-chain
 ```
 
 ## The C2
