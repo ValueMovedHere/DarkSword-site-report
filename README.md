@@ -17,6 +17,10 @@ https://99jj16[.]com
 dkj84dkfgljf74[.]vip \
                        https://www.jx9adrpc5z8094di7.net/channel/J.I.N2/weifile/weifile.html => 待归因
 https://baoz3[.]top  /
+                                 /\
+                                 || 类似
+                                 \/
+      ??????          => www[.]hsylc888[.]com
 ```
 
 ## The C2
